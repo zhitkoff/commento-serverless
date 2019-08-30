@@ -4,6 +4,10 @@
 
 Commento is a platform that you can embed in your website to allow your readers to add comments. It's reasonably fast lightweight. Supports markdown, import from Disqus, voting, automated spam detection, moderation tools, sticky comments, thread locking, OAuth login, single sign-on, and email notifications.
 
+<table align="center"><tr><td>
+<p align="center">:warning: &nbsp; <b>This is a mirror. All development takes place <a href="https://gitlab.com/commento/commento">on Gitlab</a>.</b></p>
+<div>You're viewing the Github mirror of the <code>master</code> branch. All development and discussion takes place <a href="https://gitlab.com/commento/commento">on Gitlab</a>, not on Github. Please submit all issues and patches over there.</div></td></tr></table>
+
 ###### How is this different from Disqus, Facebook Comments, and the rest?
 
 Most other products in this space do not respect your privacy; showing ads is their primary business model and that nearly always comes at the users' cost. Commento has no ads; you're the customer, not the product. While Commento is [free software](https://www.gnu.org/philosophy/free-sw.en.html), in order to keep the service sustainable, the [hosted cloud version](https://commento.io) is not offered free of cost. Commento is also orders of magnitude lighter than alternatives.
